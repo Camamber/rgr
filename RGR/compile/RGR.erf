@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: c:\My_Designs\TKP\RGR\src\std_logic_carno_automaton.vhd" 
+MESSAGE "Compile Entity "std_logic_carno_automaton"" 
+MESSAGE "Compile Architecture "std_logic_carno_automaton_arch" of Entity "std_logic_carno_automaton"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]" 

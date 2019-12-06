@@ -1,0 +1,71 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/TKP/RGR/src/untitled4.asdb'.
+# Waveform file 'c:/My_Designs/TKP/RGR/src/untitled4.awc' connected to 'c:/My_Designs/TKP/RGR/src/untitled4.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/TKP/RGR/src/untitled4.asdb'.
+acom -O3 -e 100 -work RGR -2002  $dsn/src/std_logic_carno_automaton.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\TKP\RGR\src\std_logic_carno_automaton.vhd
+# Compile Entity "std_logic_carno_automaton"
+# Compile Architecture "std_logic_carno_automaton_arch" of Entity "std_logic_carno_automaton"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+asim -O5 +access +r +m+logal_carno_no_and logal_carno_no_and logal_carno_no_and_arch
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7069 kB (elbread=1280 elab2=5651 kernel=137 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\TKP\RGR\src\wave.asdb
+#  00:56, пятница, 6 декабря 2019 г.
+#  Simulation has been initialized
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+std_logic_carno_automaton std_logic_carno_automaton std_logic_carno_automaton_arch
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7069 kB (elbread=1280 elab2=5651 kernel=137 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\TKP\RGR\src\wave.asdb
+#  00:57, пятница, 6 декабря 2019 г.
+#  Simulation has been initialized
+# add wave -noreg {/std_logic_carno_automaton/X}
+# 1 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/TKP/RGR/src/wave.asdb'.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+run 150 ns
+# KERNEL: stopped at time: 150 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.

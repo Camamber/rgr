@@ -1,0 +1,72 @@
+timestamp=1575586598846
+
+[~A]
+ModifyID=22
+Version=74
+
+[automaton]
+A/automaton_arch=21|./../src/automaton.vhd|9|1*0
+BinI32/automaton_arch=3*0
+I=0*498
+I/automaton_arch=0*1885
+M=11|0|vde|1575138137269|./../src/automaton.vhd|0*200*0x6a20e9cee1e424328d0e6992311ce970491c84cc|0*413*0x23b75c12e3e89f2ef000564498faa8c2
+M/automaton_arch=21|0|vde|1575138144778|./../src/automaton.vhd|0*536*0xf50030713dd1d8ff4fe11b05a9e252546e1773c1|0*1782*0x20116f55b147878295aeff36dce7fc50
+R=./../src/automaton.vhd|1
+Version=10.5.217.6767 (Windows)|00000003789cd3f5370600015b00b0|e561fa24685970be9f20cb62ec43c796e711739d3258eb7291525b46820d6d99b2a4e06761a09187c1914f7a05bab68e
+Version/automaton_arch=10.5.217.6767 (Windows)|00000003789cd3f5370600015b00b0|38e1b3c6d523ce6e7cd260a641a6a84d46a1563d1d6c2e05043a2a4bc223108e2737485134454356746ffdf9df0e0252
+
+[automaton2]
+A/automaton2_arch=21|./../src/automaton2.vhd|9|1*2321
+BinI32/automaton2_arch=3*633
+I=0*2444
+I/automaton2_arch=0*3656
+M=11|0|vde|1575146448189|./../src/automaton2.vhd|0*2140*0xad50b14bf0a9f3fa943a41b5538cea6c8b934672|0*2357*0x23b75c12e3e89f2ef000564498faa8c2
+M/automaton2_arch=21|0|vde|1575146448193|./../src/automaton2.vhd|0*2483*0x6b75473a1813c51b93953db03b8121d2959332a3|0*3550*0x20116f55b147878295aeff36dce7fc50
+R=./../src/automaton2.vhd|1
+Version=10.5.217.6767 (Windows)|00000003789cd3f5370600015b00b0|f0e3d2d2f4bc7e792c7680d45c21850673884ad3cb1dd248cda0e4ccebe5b4aabdf047fac5d8663f26a6b13a862ff689
+Version/automaton2_arch=10.5.217.6767 (Windows)|00000003789cd3f5370600015b00b0|20858120575d6254c8ca96c6b1b1ae942c0d9bb926046e3d92e805f513492656d795f5debea46135ab8567969f40c716
+
+[logal_carno_no_and]
+A/logal_carno_no_and_arch=21|./../src/logal_carno_no_and.vhd|15|1*30132
+BinI32/logal_carno_no_and_arch=3*2984
+I=0*19751
+I/logal_carno_no_and_arch=0*24820
+M=11|0|vde|1575581863685|./../src/logal_carno_no_and.vhd|0*19291*0xe0df51e5528c3f15e697dc53218fa172ecb44c27|0*19648*0x23b75c12e3e89f2ef000564498faa8c2
+M/logal_carno_no_and_arch=21|0|vde|1575582451167|./../src/logal_carno_no_and.vhd|0*23779*0x4c1f8d3b4af8c972327884d2177b12a36443997c|0*24690*0x20116f55b147878295aeff36dce7fc50
+R=./../src/logal_carno_no_and.vhd|3
+Version=10.5.217.6767 (Windows)|00000003789cd3f5370600015b00b0|243372482509ec41d75fd56c70c1a002e94d7cb5b1373c15e145e5ae288790f36db4b29eedd9a73b900386c715d5d42c
+Version/logal_carno_no_and_arch=10.5.217.6767 (Windows)|00000003789cd3f5370600015b00b0|243372482509ec41d75fd56c70c1a002ab8fac965312c73092d116d1dbf1a827059a9182e2429b2480da3527dae7efac
+
+[std_logic_automaton]
+A/automaton_binary_coded_arch=21|./../src/std_logic_automaton.vhd|12|1*4290
+BinI32/automaton_binary_coded_arch=3*1267
+I=0*4355
+I/automaton_binary_coded_arch=0*6285
+M=11|0|vde|1575152109171|./../src/std_logic_automaton.vhd|0*3952*0x9d46ac141cb6cae3b9ee526c7e86552bf476af43|0*4250*0x23b75c12e3e89f2ef000564498faa8c2
+M/automaton_binary_coded_arch=21|0|vde|1575152119038|./../src/std_logic_automaton.vhd|0*4568*0xf71111d7e1b5a6de36922c4e78b729634cd49ea2|0*6149*0x20116f55b147878295aeff36dce7fc50
+R=./../src/std_logic_automaton.vhd|4
+Version=10.5.217.6767 (Windows)|00000003789cd3f5370600015b00b0|48d6d86641258f59340f83c673113b9ead22730e20c53e1122dc64ccce88071897839fc5c725717f21bb56aea1c8e45b
+Version/automaton_binary_coded_arch=10.5.217.6767 (Windows)|00000003789cd3f5370600015b00b0|c2dd90c707b6744e139e70de9ae7963635cb4f29f8f2d0cd1529b52ffe544cb58fc660a9efc85c7a2357997fa341260c6a5384e8bc4299b20c73272d59d92c88
+
+[std_logic_carno_automaton]
+A/std_logic_carno_automaton_arch=21|./../src/std_logic_carno_automaton.vhd|13|1*31676
+BinI32/std_logic_carno_automaton_arch=3*4010
+I=0*7301
+I/std_logic_carno_automaton_arch=0*25056
+M=11|0|vde|1575575578792|./../src/std_logic_carno_automaton.vhd|0*6799*0xad5ef26349ff19a81a5947b12e482f6f7bc22e80|0*7184*0x23b75c12e3e89f2ef000564498faa8c2
+M/std_logic_carno_automaton_arch=21|0|vde|1575586598813|./../src/std_logic_carno_automaton.vhd|0*17750*0xc53a062e4603dee553e535ea0586baf67dc2ed52|0*18626*0x20116f55b147878295aeff36dce7fc50
+R=./../src/std_logic_carno_automaton.vhd|3
+Version=10.5.217.6767 (Windows)|00000003789cd3f5370600015b00b0|9b54ec5eb87601d62f727bb1f69135eda9a07c671ffd39220be66585129e7c1f6de7188821179f96d1ec929a6677fd441bd22c27c59187bd30acb5194866169c
+Version/std_logic_carno_automaton_arch=10.5.217.6767 (Windows)|00000003789cd3f5370600015b00b0|9b54ec5eb87601d62f727bb1f69135ed12f0bb97d962066ecee427ffd7777380bda945df1b8aa268fc2bec262f6e2974c7ca995744e84c9a0e35c190a7b3d5b9
+
+[~MFT]
+0=2|0RGR.mgf|25056|14296
+1=2|1RGR.mgf|31676|22244
+3=2|3RGR.mgf|4010|1036
+
+[~U]
+automaton=11|0*0|
+automaton2=11|0*1938|
+logal_carno_no_and=11|0*19027|
+std_logic_automaton=11|0*3711|
+std_logic_carno_automaton=11|0*6526|

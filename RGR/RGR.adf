@@ -1,0 +1,80 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=RGR
+
+[Library]
+RGR=.\RGR\RGR.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+DVM_DISPLAY=NO
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+RGR=.
+Active_lib=
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/automaton.vhd=-1
+/automaton2.vhd=-1
+/untitled1.asdb=-1
+/untitled1.awc=-1
+/untitled2.asdb=-1
+/untitled2.awc=-1
+/std_logic_automaton.vhd=-1
+/untitled3.asdb=-1
+/untitled3.awc=-1
+/std_logic_carno_automaton.vhd=-1
+/untitled4.asdb=-1
+/untitled4.awc=-1
+/logal_carno_no_and.vhd=-1
+
+[Files.Data]
+.\src\automaton.vhd=VHDL Source Code
+.\src\automaton2.vhd=VHDL Source Code
+.\src\untitled1.asdb=Accelerated Waveform File
+.\src\untitled1.awc=Accelerated Waveform Configuration
+.\src\untitled2.asdb=Accelerated Waveform File
+.\src\untitled2.awc=Accelerated Waveform Configuration
+.\src\std_logic_automaton.vhd=VHDL Source Code
+
+.\src\untitled3.asdb=Accelerated Waveform File
+.\src\untitled3.awc=Accelerated Waveform Configuration
+.\src\std_logic_carno_automaton.vhd=VHDL Source Code
+.\src\untitled4.asdb=Accelerated Waveform File
+.\src\untitled4.awc=Accelerated Waveform Configuration
+.\src\logal_carno_no_and.vhd=VHDL Source Code
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=logal_carno_no_and|logal_carno_no_and_arch|0 std_logic_carno_automaton|std_logic_carno_automaton_arch|0   
+ShowHide=ShowTopLevel
+Selected=

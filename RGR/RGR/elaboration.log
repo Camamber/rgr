@@ -1,0 +1,33 @@
+Active-HDL 10.5.217.6767 2019-12-06 00:57:02
+
+Elaboration top modules:
+Architecture                  std_logic_carno_automaton_arch(std_logic_carno_automaton)
+
+
+----------------------------------------------------------------------------------------------------------------------------
+Entity                    | Architecture                   | Library | Info | Compiler Version        | Compilation Options
+----------------------------------------------------------------------------------------------------------------------------
+std_logic_carno_automaton | std_logic_carno_automaton_arch | rgr     |      | 10.5.217.6767 (Windows) | -O3
+----------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------
+VHDL Package                                               | Library | Info | Compiler Version        | Compilation Options
+----------------------------------------------------------------------------------------------------------------------------
+standard                                                   | std     |      |                         | <unavailable>
+TEXTIO                                                     | std     |      |                         | <unavailable>
+std_logic_1164                                             | ieee    |      |                         | <unavailable>
+----------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------
+Library                                                    | Comment
+----------------------------------------------------------------------------------------------------------------------------
+ieee                                                       | Standard IEEE packages library
+rgr                                                        | None
+std                                                        | Standard VHDL library
+----------------------------------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+std_logic_carno_automaton std_logic_carno_automaton std_logic_carno_automaton_arch
+
+
+The performance of simulation is reduced. Version Student Edition

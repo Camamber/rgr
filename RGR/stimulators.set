@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<document type="stimulators" version="1">
+		<set name="ASDB Stimulators" active="1">
+			<stimulator>
+				<signal_path value="/std_logic_carno_automaton/X"/>
+				<rawdescription value="FRM:FRM:Override:00 0ns, 01 10ns, 00 20ns, 01 30ns, 00 40ns, 01 50ns, 00 60ns, 10 70ns, 00 80ns, 01 90ns, 00 100ns, 01 110ns, 00 120ns, 01 130ns, 10 140ns:Formula:0:"/>
+			</stimulator>
+		</set>
+	</document>
+</XML>

@@ -1,0 +1,5 @@
+.\src\automaton.vhd
+.\src\automaton2.vhd
+.\src\std_logic_automaton.vhd
+.\src\std_logic_carno_automaton.vhd
+.\src\logal_carno_no_and.vhd

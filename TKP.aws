@@ -1,0 +1,12 @@
+[Version]
+Version=10.5
+[Designs]
+rgr=.\RGR\RGR.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+rgr=1

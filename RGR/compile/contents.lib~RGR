@@ -1,0 +1,11 @@
+22
+~E 1 "./../src/automaton.vhd" 1 automaton
+~A 1 "./../src/automaton.vhd" 9 automaton_arch
+~E 1 "./../src/automaton2.vhd" 1 automaton2
+~A 1 "./../src/automaton2.vhd" 9 automaton2_arch
+~E 1 "./../src/logal_carno_no_and.vhd" 3 logal_carno_no_and
+~A 1 "./../src/logal_carno_no_and.vhd" 15 logal_carno_no_and_arch
+~E 1 "./../src/std_logic_automaton.vhd" 4 std_logic_automaton
+~A 1 "./../src/std_logic_automaton.vhd" 12 automaton_binary_coded_arch
+~E 1 "./../src/std_logic_carno_automaton.vhd" 3 std_logic_carno_automaton
+~A 1 "./../src/std_logic_carno_automaton.vhd" 13 std_logic_carno_automaton_arch
